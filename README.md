@@ -9,9 +9,9 @@
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vrt36&show_icons=true&theme=tokyonight" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vrt36&show_icons=true&theme=synthwave" alt="hrt" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrt36&show_icons=true&layout=compact&theme=tokyonight"" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrt36&show_icons=true&layout=compact&theme=synthwave"" alt="hrt" /> </p>
 
 ## Connect with me:
 
