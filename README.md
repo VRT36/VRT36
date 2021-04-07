@@ -4,14 +4,14 @@
 
 ### 📧 Reach me: **vrt36music@gmail.com**
 ### 👾 Check out my YouTube Channel [VRT36](https://youtube.com/c/VRT36/)
-### 💻 Visit my website [🌐](http://vrt36.github.io/)
+### 💻 Visit my website [🌐](http://vrt36.com/)
 
 <br>
 
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vrt36&show_icons=true&theme=synthwave" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vrt36&show_icons=true&theme=synthwave" alt="vrt" /> </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrt36&show_icons=true&layout=compact&theme=synthwave"" alt="hrt" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrt36&show_icons=true&layout=compact&theme=synthwave"" alt="vrt" /> </p>
 
 ## Connect with me:
 
